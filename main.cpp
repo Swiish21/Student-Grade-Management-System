@@ -26,3 +26,7 @@ class StudentGradeSystem {
         }
 
     public:
+    //Add a student to the system
+    void addStudent( int id, const string& name) {
+        students.push_back({id, name, ages ()});
+    }
