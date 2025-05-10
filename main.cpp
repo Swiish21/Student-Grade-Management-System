@@ -13,7 +13,7 @@ struct Student {
     vector<double> grades;
 };
 
-// Class to manage student records
+// Class to manage student records1
 class StudentGradeSystem {
 private:
     vector<Student> students;
