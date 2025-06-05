@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Structure to hold student information (ID, name, and student grades)
+// Structure to hold student information (ID, name, and the student grades)
 struct Student {
     int id;
     string name;
